@@ -14,6 +14,7 @@ namespace ListLinQ
             //Test2();
             //TestLINQ();
             TestString();
+            var test = "x";
         }
 
         private static void TestString()
